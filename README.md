@@ -1,2 +1,2 @@
 # gestion-emploi-department
-Création d'un rest api crud avec spring boot - spring data | mysql 
+Gestion des employées - CRUD REST API avec Spring Boot - Mysql è JPA |  spring data 
