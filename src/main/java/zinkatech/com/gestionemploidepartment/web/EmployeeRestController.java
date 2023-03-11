@@ -29,7 +29,7 @@ public class EmployeeRestController {
         employee.setEmployeeFirstName(e.getEmployeeFirstName());
         employee.setDepartment(this.departmentService.findOneDepartment(e.getDepartmentId()));
         this.employeeService.createEmployee(employee);
-        //HH
+
     }
 
     @GetMapping("/employees")
